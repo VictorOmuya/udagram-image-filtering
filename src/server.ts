@@ -39,7 +39,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
         //    4. deletes any files on the server on finish of the response
         await deleteLocalFiles([filteredImagePath])
-        return result.status(200).send("success")
+        return result.status(200).send("successfull")
           })
          
      }

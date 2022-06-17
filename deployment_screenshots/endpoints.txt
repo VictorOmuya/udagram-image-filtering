@@ -1,0 +1,3 @@
+LOCALHOST: http://{{HOST}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/300px-Animal_diversity.png
+
+ELASTIC BEANSTALK : http://udagram-image-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/300px-Animal_diversity.png
